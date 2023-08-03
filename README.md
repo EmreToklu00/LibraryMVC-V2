@@ -43,8 +43,12 @@ Once I prepare other versions, I will share them in a separate repository.
 ## Screenshots
 
 ![](https://github.com/EmreToklu00/LibraryMVC-V2/blob/main/github/adminbooks.png)
+----
 ![](https://github.com/EmreToklu00/LibraryMVC-V2/blob/main/github/admincategories.png)
+----
 ![](https://github.com/EmreToklu00/LibraryMVC-V2/blob/main/github/home.png)
+----
 ![](https://github.com/EmreToklu00/LibraryMVC-V2/blob/main/github/library.png)
+----
 
 <p align="right"><-<a href="#readme-top">back to top</a>-></p>
