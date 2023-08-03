@@ -1,0 +1,12 @@
+C:\Users\toklu\Desktop\Local-Projects\DotNetProjects\Librar\V2\LibraryMVC-V2\library.data\bin\Debug\netstandard2.0\library.data.deps.json
+C:\Users\toklu\Desktop\Local-Projects\DotNetProjects\Librar\V2\LibraryMVC-V2\library.data\bin\Debug\netstandard2.0\library.data.dll
+C:\Users\toklu\Desktop\Local-Projects\DotNetProjects\Librar\V2\LibraryMVC-V2\library.data\bin\Debug\netstandard2.0\library.data.pdb
+C:\Users\toklu\Desktop\Local-Projects\DotNetProjects\Librar\V2\LibraryMVC-V2\library.data\bin\Debug\netstandard2.0\library.entity.dll
+C:\Users\toklu\Desktop\Local-Projects\DotNetProjects\Librar\V2\LibraryMVC-V2\library.data\bin\Debug\netstandard2.0\library.entity.pdb
+C:\Users\toklu\Desktop\Local-Projects\DotNetProjects\Librar\V2\LibraryMVC-V2\library.data\obj\Debug\netstandard2.0\library.data.AssemblyInfoInputs.cache
+C:\Users\toklu\Desktop\Local-Projects\DotNetProjects\Librar\V2\LibraryMVC-V2\library.data\obj\Debug\netstandard2.0\library.data.AssemblyInfo.cs
+C:\Users\toklu\Desktop\Local-Projects\DotNetProjects\Librar\V2\LibraryMVC-V2\library.data\obj\Debug\netstandard2.0\library.data.csproj.CoreCompileInputs.cache
+C:\Users\toklu\Desktop\Local-Projects\DotNetProjects\Librar\V2\LibraryMVC-V2\library.data\obj\Debug\netstandard2.0\library.data.csproj.CopyComplete
+C:\Users\toklu\Desktop\Local-Projects\DotNetProjects\Librar\V2\LibraryMVC-V2\library.data\obj\Debug\netstandard2.0\library.data.dll
+C:\Users\toklu\Desktop\Local-Projects\DotNetProjects\Librar\V2\LibraryMVC-V2\library.data\obj\Debug\netstandard2.0\library.data.pdb
+C:\Users\toklu\Desktop\Local-Projects\DotNetProjects\Librar\V2\LibraryMVC-V2\library.data\obj\Debug\netstandard2.0\library.data.csprojAssemblyReference.cache

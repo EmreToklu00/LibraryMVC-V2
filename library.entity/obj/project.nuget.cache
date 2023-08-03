@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JUNTr+/ThGVAqHXjIqvJDXOK237vRQVtIQO3qSH6l3n9xDCn55VWvN/3ip/MEJl1MXV3v7gPem7f+i/lAQAqBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\toklu\\Desktop\\Local-Projects\\DotNetProjects\\Librar\\V2\\LibraryMVC-V2\\library.entity\\library.entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\toklu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\toklu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

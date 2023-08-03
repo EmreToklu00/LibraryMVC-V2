@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+
+  <ItemGroup>
+    <ProjectReference Include="../library.entity/library.entity.csproj" />
+    <ProjectReference Include="../library.data/library.data.csproj" />
+  </ItemGroup>
+
+</Project>

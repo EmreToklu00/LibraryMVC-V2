@@ -1,0 +1,14 @@
+C:\Users\toklu\Desktop\Local-Projects\DotNetProjects\Librar\V2\LibraryMVC-V2\library.business\bin\Debug\netstandard2.0\library.business.deps.json
+C:\Users\toklu\Desktop\Local-Projects\DotNetProjects\Librar\V2\LibraryMVC-V2\library.business\bin\Debug\netstandard2.0\library.business.dll
+C:\Users\toklu\Desktop\Local-Projects\DotNetProjects\Librar\V2\LibraryMVC-V2\library.business\bin\Debug\netstandard2.0\library.business.pdb
+C:\Users\toklu\Desktop\Local-Projects\DotNetProjects\Librar\V2\LibraryMVC-V2\library.business\bin\Debug\netstandard2.0\library.data.dll
+C:\Users\toklu\Desktop\Local-Projects\DotNetProjects\Librar\V2\LibraryMVC-V2\library.business\bin\Debug\netstandard2.0\library.entity.dll
+C:\Users\toklu\Desktop\Local-Projects\DotNetProjects\Librar\V2\LibraryMVC-V2\library.business\bin\Debug\netstandard2.0\library.entity.pdb
+C:\Users\toklu\Desktop\Local-Projects\DotNetProjects\Librar\V2\LibraryMVC-V2\library.business\bin\Debug\netstandard2.0\library.data.pdb
+C:\Users\toklu\Desktop\Local-Projects\DotNetProjects\Librar\V2\LibraryMVC-V2\library.business\obj\Debug\netstandard2.0\library.business.AssemblyInfoInputs.cache
+C:\Users\toklu\Desktop\Local-Projects\DotNetProjects\Librar\V2\LibraryMVC-V2\library.business\obj\Debug\netstandard2.0\library.business.AssemblyInfo.cs
+C:\Users\toklu\Desktop\Local-Projects\DotNetProjects\Librar\V2\LibraryMVC-V2\library.business\obj\Debug\netstandard2.0\library.business.csproj.CoreCompileInputs.cache
+C:\Users\toklu\Desktop\Local-Projects\DotNetProjects\Librar\V2\LibraryMVC-V2\library.business\obj\Debug\netstandard2.0\library.business.csproj.CopyComplete
+C:\Users\toklu\Desktop\Local-Projects\DotNetProjects\Librar\V2\LibraryMVC-V2\library.business\obj\Debug\netstandard2.0\library.business.dll
+C:\Users\toklu\Desktop\Local-Projects\DotNetProjects\Librar\V2\LibraryMVC-V2\library.business\obj\Debug\netstandard2.0\library.business.pdb
+C:\Users\toklu\Desktop\Local-Projects\DotNetProjects\Librar\V2\LibraryMVC-V2\library.business\obj\Debug\netstandard2.0\library.business.csprojAssemblyReference.cache

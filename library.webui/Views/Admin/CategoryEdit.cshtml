@@ -1,0 +1,111 @@
+@model CategoryModel
+
+<h1 class="h3">Edit Category</h1>
+<hr>
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-controller="Admin" asp-action="CategoryEdit" method="POST">
+            <div class="text-danger" asp-validation-summary="All"></div>
+            <input type="hidden" name="Id" value="@Model.Id">
+            <div class="form-group row">
+                <label asp-for="Name" class="col-sm-2 col-form-label"></label>
+                <div class="col-sm-10">
+                    <input class="form-control" asp-for="Name">
+                    <span class="text-danger" asp-validation-for="Name"></span>
+
+                </div>
+            </div>
+            <div class="form-group row">
+                <label asp-for="Url" class="col-sm-2 col-form-label"></label>
+                <div class="col-sm-10">
+                    <input class="form-control" asp-for="Url">
+                    <span class="text-danger" asp-validation-for="Url"></span>
+
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-sm-10 offset-sm-2">
+                    <button type="submit" class="btn btn-primary">Save Category</button>
+                </div>
+            </div>
+
+            <div id="books">
+                @for (int i = 0; i < Model.Books.Count; i++)
+                {
+                    <input type="hidden" name="Books[@i].Id" value="@Model.Books[@i].Id">
+                    <input type="hidden" name="Books[@i].ImageUrl" value="@Model.Books[@i].ImageUrl">
+                    <input type="hidden" name="Books[@i].Name" value="@Model.Books[@i].Name">
+                    <input type="hidden" name="Books[@i].Price" value="@Model.Books[@i].Price">
+                    <input type="hidden" name="Books[@i].IsApproved" value="@Model.Books[@i].IsApproved.ToString()">
+                }
+            </div>
+        </form>
+    </div>
+    <div class="col-md-8">
+
+        <div class="row">
+            <table class="table table-bordered table-sm">
+                <thead>
+                    <tr>
+                        <td style="width: 30px;">Id</td>
+                        <td style="width: 100px;">Image</td>
+                        <td>Name</td>
+                        <td style="width: 20px;">Price</td>
+                        <td style="width: 30px;">Onayli</td>
+                        <td style="width: 150px;"></td>
+                    </tr>
+                </thead>
+                <tbody>
+
+                    @if (Model.Books.Count > 0)
+                    {
+                        @foreach (var item in Model.Books)
+                        {
+                            <tr>
+                                <td>@item.Id</td>
+                                <td><img src="@item.ImageUrl" width="80px"></td>
+                                <td>@item.Name</td>
+                                <td>@item.Price</td>
+
+                                <td>
+                                    @if (item.IsApproved)
+                                    {
+                                        <i class="fas fa-check-circle"></i>
+                                    }
+                                    else
+                                    {
+                                        <i class="fas fa-times-circle"></i>
+
+                                    }
+                                </td>
+                                <td>
+                                    <a href="/admin/books/@item.Id" class="btn btn-primary btn-sm mr-2">Edit</a>
+
+                                    <form asp-controller="admin" asp-action="deletefromcategory" method="POST"
+                                        style="display: inline;">
+                                        <input type="hidden" name="bookId" value="@item.Id">
+                                        <input type="hidden" name="categoryId" value="@Model.Id">
+                                        <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                                    </form>
+                                </td>
+                            </tr>
+                        }
+                    }
+                    else
+                    {
+                        <div class="alert alert-warning">
+                            <h3>No Books</h3>
+                        </div>
+                    }
+                </tbody>
+            </table>
+
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="/modules/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="/modules/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js"></script>
+}

@@ -1,0 +1,9 @@
+C:\Users\toklu\Desktop\Local-Projects\DotNetProjects\Librar\V2\LibraryMVC-V2\library.entity\bin\Debug\netstandard2.0\library.entity.deps.json
+C:\Users\toklu\Desktop\Local-Projects\DotNetProjects\Librar\V2\LibraryMVC-V2\library.entity\bin\Debug\netstandard2.0\library.entity.dll
+C:\Users\toklu\Desktop\Local-Projects\DotNetProjects\Librar\V2\LibraryMVC-V2\library.entity\bin\Debug\netstandard2.0\library.entity.pdb
+C:\Users\toklu\Desktop\Local-Projects\DotNetProjects\Librar\V2\LibraryMVC-V2\library.entity\obj\Debug\netstandard2.0\library.entity.AssemblyInfoInputs.cache
+C:\Users\toklu\Desktop\Local-Projects\DotNetProjects\Librar\V2\LibraryMVC-V2\library.entity\obj\Debug\netstandard2.0\library.entity.AssemblyInfo.cs
+C:\Users\toklu\Desktop\Local-Projects\DotNetProjects\Librar\V2\LibraryMVC-V2\library.entity\obj\Debug\netstandard2.0\library.entity.csproj.CoreCompileInputs.cache
+C:\Users\toklu\Desktop\Local-Projects\DotNetProjects\Librar\V2\LibraryMVC-V2\library.entity\obj\Debug\netstandard2.0\library.entity.dll
+C:\Users\toklu\Desktop\Local-Projects\DotNetProjects\Librar\V2\LibraryMVC-V2\library.entity\obj\Debug\netstandard2.0\library.entity.pdb
+C:\Users\toklu\Desktop\Local-Projects\DotNetProjects\Librar\V2\LibraryMVC-V2\library.entity\obj\Debug\netstandard2.0\library.entity.csprojAssemblyReference.cache
