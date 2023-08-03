@@ -9,8 +9,6 @@ While learning .NET Core MVC, I prepared this project. I applied all the feature
 
 Since I'm new to .NET Core MVC, any kind of feedback is important to me. It will help me identify areas where I can improve and address any shortcomings.
 
-Once I prepare other versions, I will share them in a separate repository.
-
 ## Features
 - I worked with .NET Core 3.1 version.
 - I used SQLite as the database.
