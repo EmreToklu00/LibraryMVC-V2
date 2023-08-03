@@ -17,24 +17,24 @@ Once I prepare other versions, I will share them in a separate repository.
 - I tried to keep the view part as simple as possible and used Bootstrap.
 - I developed the project using the Modular Architecture (Entity, Data, Business, WebUI).
 
-## Data Module:
+## Data:
 
 - Manages database operations and handles communication with the database.
 - Utilizes ORM (Object-Relational Mapping) tools like Entity Framework or Dapper to establish a connection with the database.
 - Provides necessary CRUD (Create, Read, Update, Delete) operations for database access.
 
-## Entity Module:
+## Entity:
 
 - Defines object models and relationships to be used in the database.
 - Typically, uses the Entity Framework Code-First approach to convert database tables into C# objects.
 
-## Business Module:
+## Business:
 
 - Manages business rules and logic in the project.
 - Processes data received from the Data module, performs necessary calculations, and manages business processes.
 - Utilizes functionalities provided by the Data and Entity modules to build the project's business logic.
 
-## WebUI Module:
+## WebUI:
 
 - Provides a web interface for users to access the project.
 - Creates the user interface using Razor Pages or the MVC framework.
