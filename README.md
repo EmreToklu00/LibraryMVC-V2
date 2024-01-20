@@ -5,9 +5,9 @@
 
 This project is a continuation of the previous "Library MVC-V1" project, you can find it [here](https://github.com/EmreToklu00/LibraryMVC-V1).
 
-While learning .NET Core MVC, I prepared this project. I applied all the features I learned to the best of my ability. I wanted to keep the appearance of the site simple and straightforward, and I spent more time on backend processes.
+This is a simple .NET Core MVC project, I wanted to keep the appearance of the site simple and straightforward.
 
-Since I'm new to .NET Core MVC, any kind of feedback is important to me. It will help me identify areas where I can improve and address any shortcomings.
+Any kind of feedback is important to me. This is an example project for those who want to improve themselves with .Net Core MVC
 
 ## Features
 - I worked with .NET Core 3.1 version.
